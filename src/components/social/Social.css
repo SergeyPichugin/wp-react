@@ -1,0 +1,6 @@
+.list{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(5, max-content);
+    place-content: center;
+}
